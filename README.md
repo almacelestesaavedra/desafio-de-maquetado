@@ -1,1 +1,2 @@
- https://github.com/almacelestesaavedra/desafio-de-maquetado.git
+
+https://almacelestesaavedra.github.io/desafio-de-maquetado/
